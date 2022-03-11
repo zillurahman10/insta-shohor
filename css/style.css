@@ -256,3 +256,12 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+.question-style{
+  display: flex;
+  justify-content: center;
+  margin: 50px; 
+  flex-wrap: wrap;
+  background-color: lightcyan;
+  padding: 50px;
+  border-radius: 30px;
+}
